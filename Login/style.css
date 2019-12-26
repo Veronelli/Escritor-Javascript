@@ -1,0 +1,60 @@
+body{
+    font-family: 'Kulim Park', sans-serif;
+}
+
+/*Ubicar contenedor*/
+.contenedor{
+
+ transform: translateX(110%) translateY(45%);
+ position: absolute;
+ 
+ 
+
+}
+
+/*Estilos del boton*/
+.boton{
+
+    float: right;
+
+    width: 49px;
+    height: 49px;
+    background-color: red;
+
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+/*Estilos del texto*/
+.ediText{
+
+    border: none;
+    background-color: white;
+    
+    opacity: .5;
+    width: 400px;
+    height: 43px;
+    font-size: 25px;
+
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+
+    padding: 5px 8px 0px 5px;
+
+}
+
+#escribir{
+
+    color: red;
+    margin-left: 150px;
+
+}
+
+.box{
+
+    background-color: rgb(206, 136, 7);
+
+    height: 250px;
+
+}
+
